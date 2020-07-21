@@ -1,0 +1,9 @@
+C:\Users\Ali.Alizada\source\repos\HotelFinder\HotelFinder.Entities\bin\Debug\netstandard2.0\HotelFinder.Entities.deps.json
+C:\Users\Ali.Alizada\source\repos\HotelFinder\HotelFinder.Entities\bin\Debug\netstandard2.0\HotelFinder.Entities.dll
+C:\Users\Ali.Alizada\source\repos\HotelFinder\HotelFinder.Entities\obj\Debug\netstandard2.0\HotelFinder.Entities.AssemblyInfoInputs.cache
+C:\Users\Ali.Alizada\source\repos\HotelFinder\HotelFinder.Entities\obj\Debug\netstandard2.0\HotelFinder.Entities.AssemblyInfo.cs
+C:\Users\Ali.Alizada\source\repos\HotelFinder\HotelFinder.Entities\bin\Debug\netstandard2.0\HotelFinder.Entities.pdb
+C:\Users\Ali.Alizada\source\repos\HotelFinder\HotelFinder.Entities\obj\Debug\netstandard2.0\HotelFinder.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ali.Alizada\source\repos\HotelFinder\HotelFinder.Entities\obj\Debug\netstandard2.0\HotelFinder.Entities.dll
+C:\Users\Ali.Alizada\source\repos\HotelFinder\HotelFinder.Entities\obj\Debug\netstandard2.0\HotelFinder.Entities.pdb
+C:\Users\Ali.Alizada\source\repos\HotelFinder\HotelFinder.Entities\obj\Debug\netstandard2.0\HotelFinder.Entities.csprojAssemblyReference.cache
